@@ -42,6 +42,6 @@ Alpha is a hyper parameter with a value of 0.4
 
 ### Additional References
 
-[PSPNet example from kaggle]: https://www.kaggle.com/code/balraj98/pyramid-scene-parsing-pspnet-resnext50-pytorch
+[PSPNet example from kaggle](https://www.kaggle.com/code/balraj98/pyramid-scene-parsing-pspnet-resnext50-pytorch)
 
 ( above example uses the prebuilt smp module's PSPNet model ... )
